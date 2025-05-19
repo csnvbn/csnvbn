@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Benjamin Casanova
 
-<!--
-**csnvbn/csnvbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Business Intelligence Analyst** | Data-Driven Problem Solver | SQL & Tableau Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about transforming data into actionable insights that drive business growth and efficiency. I have a strong foundation in data analysis, visualization, and storytelling, with experience in tools like SQL, Tableau, and Excel. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+- **Data Analysis**: SQL, Excel, Python (Pandas, NumPy)
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Business Intelligence**: Data modeling, dashboard design, KPI tracking
+- **Analytics Tools**: Google Analytics, Power BI, Excel
+
+### 🌱 Currently Learning
+- Advanced SQL techniques
+- Predictive analytics
+- Data engineering fundamentals
+
+### 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/benjamin-casanova)
+- [GitHub](https://github.com/csnvbn)
+
+### 💬 Let's Talk About
+- Data storytelling
+- BI best practices
+- Career growth in analytics
+
+### 📝 Recent Projects
+- Superstore Return Rate Analysis
+- Financial Forecasting for Small Businesses
+- Customer Segmentation for E-commerce
